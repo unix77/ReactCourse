@@ -1,5 +1,12 @@
 node_modules
 .vscode
-.DS_Store
 .eslintcache
+111/.env
+
+# General
 .DS_Store
+
+
+
+
+
